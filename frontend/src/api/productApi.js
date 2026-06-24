@@ -2,7 +2,7 @@ import axios from "axios";
 
 // const API = "http://localhost:5000/api/products";
 const API =
-  "https://your-backend.onrender.com/api/products";
+  "https://cursor-s7aw.onrender.com/api/products";
 
 export const fetchProducts = async ({
   cursorUpdatedAt,
